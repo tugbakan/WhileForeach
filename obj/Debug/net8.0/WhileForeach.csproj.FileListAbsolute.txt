@@ -1,0 +1,14 @@
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfoInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.AssemblyInfo.cs
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.csproj.CoreCompileInputs.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\bin\Debug\net8.0\WhileForeach.exe
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\bin\Debug\net8.0\WhileForeach.deps.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\bin\Debug\net8.0\WhileForeach.runtimeconfig.json
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\bin\Debug\net8.0\WhileForeach.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\bin\Debug\net8.0\WhileForeach.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\refint\WhileForeach.dll
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.pdb
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\WhileForeach.genruntimeconfig.cache
+C:\Users\Tugba\Desktop\Patika\Pratikler\WhileForeach\obj\Debug\net8.0\ref\WhileForeach.dll
